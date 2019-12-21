@@ -1,0 +1,48 @@
+{
+  "name": "@howtocodewell/footer-menu",
+  "version": "1.0.0",
+  "description": "How To Code Well Footer Menu",
+  "main": "dist/index.js",
+  "scripts": {
+    "build:style": "tailwind build src/css/index.css -o src/styles/tailwind.css",
+    "start": "npm run build:style",
+    "build": "babel src --out-dir dist",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howToCodeWell/header-menu.git"
+  },
+  "keywords": [
+    "react",
+    "js",
+    "javascript"
+  ],
+  "author": "@howtocodewell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howToCodeWell/footer-menu/issues"
+  },
+  "homepage": "https://github.com/howToCodeWell/footer-menu#readme",
+  "dependencies": {
+    "react": "^16.12.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.7.5",
+    "@babel/core": "^7.7.5",
+    "@babel/node": "^7.7.4",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "autoprefixer": "^9.7.3",
+    "babel-loader": "^8.0.6",
+    "postcss-cli": "^6.1.3",
+    "tailwindcss": "^1.1.4"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-env",
+      "@babel/preset-react"
+    ]
+  }
+}

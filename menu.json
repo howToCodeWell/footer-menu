@@ -1,0 +1,48 @@
+{
+  "left": [
+    {
+      "name": "Wiki",
+      "url": "https://wiki.howtocodewell.net"
+    },
+    {
+      "name": "Code of Conduct",
+      "url": "https://codeofconduct.howtocodewell.net"
+    },
+    {
+      "name": "How To Ask a Question",
+      "url": "https://howtoaskaquestion.howtocodewell.net"
+    }
+  ],
+  "middle": [
+    {
+      "name": "Code Courses",
+      "url": "https://howtocodewell.net/courses"
+    },
+    {
+      "name": "Shop",
+      "url": "https://howtocodewell.net/shop"
+    },
+    {
+      "name": "Live Coding",
+      "url": "https://howtocodewell.net/live"
+    }
+  ],
+  "right": [
+    {
+      "name": "Join the community",
+      "url": "https://howtocodewell.net/discord"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://twitter.com/howtocodewell"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://youtube.com/howtocodewell"
+    },
+    {
+      "name": "Twitch",
+      "url": "https://twitch.tv/howtocodewell"
+    }
+  ]
+}
