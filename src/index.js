@@ -6,8 +6,8 @@ class FooterMenu extends Component {
 
     render() {
         return (
-            <footer className="flex justify-between border-solid border-t-2 mt-2 pt-4 border-gray-400">
-                <nav id="menuMenu" className="container mx-auto px-4">
+            <footer className="flex justify-between">
+                <nav id="menuMenu" className="container mx-auto px-4 ">
 
                     <div className="flex-none justify-between sm:flex ">
 
