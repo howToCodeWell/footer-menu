@@ -1,6 +1,5 @@
 import menu from '../menu'
 import React, {Component} from 'react';
-import '../src/css/index.css';
 
 class FooterMenu extends Component {
 

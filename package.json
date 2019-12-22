@@ -1,6 +1,6 @@
 {
   "name": "@howtocodewell/footer-menu",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "How To Code Well Footer Menu",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/howToCodeWell/header-menu.git"
+    "url": "git+https://github.com/howToCodeWell/footer-menu.git"
   },
   "keywords": [
     "react",
