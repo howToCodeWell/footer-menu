@@ -1,6 +1,6 @@
 {
   "name": "@howtocodewell/footer-menu",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "How To Code Well Footer Menu",
   "main": "dist/index.js",
   "scripts": {
